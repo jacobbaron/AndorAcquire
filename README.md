@@ -7,4 +7,4 @@ Designed for use with
 
 Requires Andor SDK
 
-Files are save in HDF5 format.
+Recordings are saved in HDF5 format. 
